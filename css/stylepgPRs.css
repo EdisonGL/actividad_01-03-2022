@@ -109,3 +109,17 @@
 .ult-spc{
     margin-bottom: 70px;
 }
+.Elim-con{
+    background-color: red;
+    height: 150px;
+}
+.btn-EN_SA{
+    background-color: #24bb4a;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 50px;
+
+}
